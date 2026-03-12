@@ -6,21 +6,27 @@ import { AlertCircle, X, Phone, Heart } from 'lucide-react';
 
 const crisisResources = [
   {
-    name: 'National Suicide Prevention Lifeline',
-    number: '988',
-    description: '24/7 crisis support',
+    name: 'Samaritans of Singapore (SOS)',
+    number: '1-767',
+    description: '24/7 crisis helpline',
     type: 'call'
   },
   {
-    name: 'Crisis Text Line',
-    number: 'Text HOME to 741741',
-    description: 'Text support anytime',
-    type: 'text'
+    name: 'Institute of Mental Health',
+    number: '6389 2222',
+    description: '24/7 mental health helpline',
+    type: 'call'
   },
   {
-    name: 'SAMHSA National Helpline',
-    number: '1-800-662-4357',
-    description: 'Mental health & substance abuse',
+    name: 'Silver Ribbon Singapore',
+    number: '6385 3714',
+    description: 'Mental health support (10am-6pm)',
+    type: 'call'
+  },
+  {
+    name: 'Emergency Services',
+    number: '995',
+    description: 'For immediate danger or crisis',
     type: 'call'
   }
 ];

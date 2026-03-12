@@ -313,7 +313,7 @@ export default function Home() {
                   Here's what might help
                 </h2>
                 <p className="text-gray-600">
-                  Based on how you're feeling, we recommend these activities
+                  Based on how you're feeling right now
                 </p>
               </div>
 
